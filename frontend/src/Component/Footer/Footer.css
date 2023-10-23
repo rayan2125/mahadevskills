@@ -1,0 +1,220 @@
+@media only screen and (max-width: 991px){
+    .footer-widget-area-bg {
+        padding: 48px 0 24px 0;
+    }
+}
+
+
+.footer-widget-area-bg {
+    background: #333333;
+}
+
+
+.footer-widget-area-bg .footer-widget-area {
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 991px){
+    .footer-widget-area {
+        padding: 0px 0 32px 0;
+    }
+}
+
+.footer-widget-area-bg .footer-widget-area .footer-logo {
+    margin-bottom: 25px;
+}
+
+.footer-widget-area-bg .footer-widget-area .divider-line {
+    border-bottom: 1px solid #808080;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-widget-area-bg .footer-widget-area .divider-line {
+    border-bottom: 1px solid #808080;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-details {
+    color: #FFFFFF;
+    display: block;
+    overflow: hidden;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a {
+    border: 2px solid #f1f1f1;
+    color: #77C720;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    text-align: center;
+}
+.footer-widget-area-bg .footer-widget-area a {
+    color: #FFFFFF;
+    display: inline-block;
+}
+
+.footer-widget-area-bg .footer-widget-area {
+    color: #FFFFFF;
+}
+@media only screen and (max-width: 991px){
+    .footer-widget-area {
+        padding: 0px 0 32px 0;
+    }
+}
+.footer-widget-area-bg .footer-widget-area > h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.footer-widget-area-bg .footer-widget-area {
+    color: #FFFFFF;
+}
+@media only screen and (max-width: 991px){
+    .footer-widget-area {
+        padding: 0px 0 32px 0;
+    }
+}
+
+.footer-widget-area-bg .footer-widget-area > h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.footer-widget-area-bg .footer-widget-area .divider-line {
+    border-bottom: 1px solid #808080;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-heading {
+    display: block;
+    float: left;
+    margin-right: 10px;
+    overflow: hidden;
+    width: 40px;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-details {
+    color: #FFFFFF;
+    display: block;
+    overflow: hidden;
+}
+
+.footer-widget-area-bg .footer-widget-area .divider-line {
+    border-bottom: 1px solid #808080;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-heading {
+    display: block;
+    float: left;
+    margin-right: 10px;
+    overflow: hidden;
+    width: 40px;
+}
+.footer-section {
+    background: #1a1a1a;
+    border-top: 1px solid #444444;
+    padding: 34px 0 36px;
+    color: #C2C2C2;
+}
+
+.footer-section .footer-nav {
+    clear: both;
+}
+
+.footer-section .footer-nav ul {
+    text-align: center;
+    list-style: outside none none;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.footer-section .footer-nav ul li:first-child {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.footer-section .footer-nav ul li {
+    position: relative;
+    line-height: 14px;
+    margin-left: 15px;
+    padding-left: 15px;
+    display: inline-block;
+}
+
+.footer-section .footer-nav ul li:first-child {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.footer-section .footer-nav ul li {
+    position: relative;
+    line-height: 14px;
+    margin-left: 15px;
+    padding-left: 15px;
+    display: inline-block;
+}
+
+.footer-section span a.color-primary {
+    color: #77C720;
+}
+
+.footer-widget-area-bg .footer-widget-area .color-primary a {
+    color: #77C720;
+}
+
+.footer-section .footer-nav a:hover {
+    color: #77C720;
+}
+
+a {
+    color: #77C720;
+    text-decoration: none !important;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.footer-section .footer-nav ul li:last-child:after {
+    background: transparent;
+    position: absolute;
+    content: '';
+    top: 7px;
+    right: -20px;
+    width: 4px;
+    height: 4px;
+}
+.footer-section .footer-nav ul li:after {
+    background: #77C720;
+    position: absolute;
+    content: '';
+    top: 7px;
+    right: -20px;
+    width: 4px;
+    height: 4px;
+}
+
+.footer-section .footer-nav a {
+    color: #C2C2C2;
+}
+
+.footer-widget-area-bg .footer-widget-area .footer-useful-links a i {
+    color: #77C720;
+}
+
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a i {
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+}
+

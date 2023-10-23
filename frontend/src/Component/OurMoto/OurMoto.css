@@ -1,0 +1,77 @@
+.cause-section {
+    /* background-image: url(../images/cause_bg.jpg); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: initial;
+    position: relative;
+    overflow: hidden;
+   
+}
+
+/* .cause-section:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    content: '';
+    width: 100%;
+    height: 2000px;
+} */
+
+
+
+
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+
+@media (max-width: 767px){
+    .hidden-xs {
+        display: none!important;
+    }
+}
+
+
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.section-content-block {
+    padding: 100px 0 100px 0;
+    /* background: #FFFFFF; */
+    background: black;
+}
+
+.urgent-cause {
+    width: 100%;
+    float: left;
+    clear: both;
+    color: #FFFFFF;
+}
+
+.urgent-cause .cause-content .cause-text h4 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #77C720;
+    margin-bottom: 5px;
+}
+
+.urgent-cause {
+    width: 100%;
+    float: left;
+    clear: both;
+    color: #FFFFFF;
+}
+
+.urgent-cause .cause-content .cause-text h2 {
+    font-size: 48px;
+    line-height: 60px;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}

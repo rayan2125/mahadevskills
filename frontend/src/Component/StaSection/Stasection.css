@@ -1,0 +1,71 @@
+.cta-section .cta-section-1 {
+    padding: 40px 0;
+    background: #77C720;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cta-section .cta-section-1 a.btn-cta3 {
+    font-size: 22px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    position: relative;
+    background: #77C720;
+    border: 5px solid #FFFFFF;
+    color: #FFFFFF;
+    height: 60px;
+    line-height: 39px;
+    padding-left: 28px;
+    padding-right: 28px;
+    font-weight: 700;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
+
+.cta-section .cta-section-1 h2 {
+    font-size: 32px;
+    line-height: 35px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cta-section .cta-section-1 p {
+    margin-bottom: 0px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+h2 + p {
+    margin-top: 12px;
+}
+
+p {
+    margin: 0 0 12px;
+    padding: 0;
+}
+
+@media only screen and (max-width: 991px){
+    .cta-section .cta-section-1 a.btn-cta3 {
+        margin-top: 25px;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    .cta-section .cta-section-1 .text-left, .cta-section .cta-section-1 .text-right {
+        text-align: center;
+    }
+}
+

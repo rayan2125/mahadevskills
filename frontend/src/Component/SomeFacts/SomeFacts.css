@@ -1,0 +1,42 @@
+.section-heading-alt {
+    color: #FFFFFF;
+}
+
+.section-heading {
+    position: relative;
+    font-size: 48px;
+    line-height: 48px;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    display: inline-block;
+    /* color: #1a1a1a; */
+}
+
+.section-counter .counter-block-1 {
+    margin-bottom: 24px;
+}
+
+.section-counter .counter-block-1 .counter {
+    display: block;
+    margin-top: 48px;
+    font-size: 55px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section-counter .counter-block-1 h4 span {
+    color: #77C720;
+}
+
+
+.section-counter .counter-block-1 h4 {
+    margin-top: 12px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    color: #FFFFFF;
+    position: relative;
+}
